@@ -1,0 +1,8 @@
+nodered-prod-yzwr: 172.17.0.4:1880
+influxdb-prod-6f4k: 172.17.0.3:8086
+influxdb-prod-6f4k: 172.17.0.2:8086
+nodered-prod-yzwr: 172.17.0.4:1880
+grafana-prod-yrys: 172.17.0.3:3000
+grafana-prod-9ds9: 172.17.0.4:3000
+nodered-prod-xstk: 172.17.0.3:1880
+influxdb-prod-8hb1: 172.17.0.2:8086
